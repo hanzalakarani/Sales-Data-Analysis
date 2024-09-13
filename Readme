@@ -1,0 +1,10 @@
+Sales Analysis Dashboard
+
+The Sales Analysis Dashboard is a SQL with Python project designed to load, analyze, and visualize sales data from multiple CSV files. It generates key insights like top-selling products, monthly sales trends, and sales by region.
+
+Features
+- **Top-Selling Products**: Bar chart visualization of top 10 products.
+- **Monthly Sales Trend**: Line chart showing monthly sales.
+- **Sales by Region**: Bar chart of top 10 countries by revenue.
+- **Top Customers by Revenue**: Bar chart displaying top 10 customers.
+- **Average Sale Amount**: Comparative bar chart of actual vs benchmark.
